@@ -1,0 +1,62 @@
+[
+    {
+        "Name": "12FactorApp",
+        "Code": "12factor",
+        "Envirnoments": [
+            {
+                "EnvName": "cdev",
+                "EnvConfig": {
+                    "NavUrl": "https://www.google.com/search?&q=cdev"                    
+                }
+            },
+            {
+                "EnvName": "qa",
+                "EnvConfig": {
+                    "NavUrl": "https://www.google.com/search?&q=qa"
+                }
+            },
+            {
+                "EnvName": "uat",
+                "EnvConfig": {
+                    "NavUrl": "https://www.google.com/search?&q=uat"
+                }
+            },
+            {
+                "EnvName": "prod",
+                "EnvConfig": {
+                    "NavUrl": "https://www.google.com/search?&q=prod"
+                }
+            }
+        ]
+    },
+    {
+        "Name": "AngularApp",
+        "Code": "angular",
+        "Envirnoments": [
+            {
+                "EnvName": "cdev",
+                "EnvConfig": {
+                    "Url": "https://www.google.com/search?&q=cdev"
+                }
+            },
+            {
+                "EnvName": "qa",
+                "EnvConfig": {
+                    "Url": "https://www.google.com/search?&q=qa"
+                }
+            },
+            {
+                "EnvName": "uat",
+                "EnvConfig": {
+                    "Url": "https://www.google.com/search?&q=uat"
+                }
+            },
+            {
+                "EnvName": "prod",
+                "EnvConfig": {
+                    "Url": "https://www.google.com/search?&q=prod"
+                }
+            }
+        ]
+    }
+]
