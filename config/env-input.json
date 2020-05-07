@@ -1,6 +1,6 @@
 [
     {
-        "Name": "12FactorApp",
+        "Name": "TwelveFactorApp",
         "Code": "12factor",
         "Envirnoments": [
             {
