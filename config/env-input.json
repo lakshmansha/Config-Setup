@@ -1,6 +1,74 @@
 [
     {
-        "Name": "12FactorApp",
+        "Name": "AngularFactorApp",
+        "Code": "factor",
+        "Envirnoments": [
+            {
+                "EnvName": "cdev",
+                "EnvConfig": {
+                    "NavUrl": "https://www.google.com/search?&q=AngularFactorApp-cdev",
+                    "Envirnoment": "cdev"                    
+                }
+            },
+            {
+                "EnvName": "qa",
+                "EnvConfig": {
+                    "NavUrl": "https://www.google.com/search?&q=AngularFactorApp-qa",
+                    "Envirnoment": "qa" 
+                }
+            },
+            {
+                "EnvName": "uat",
+                "EnvConfig": {
+                    "NavUrl": "https://www.google.com/search?&q=AngularFactorApp-uat",
+                    "Envirnoment": "uat" 
+                }
+            },
+            {
+                "EnvName": "prod",
+                "EnvConfig": {
+                    "NavUrl": "https://www.google.com/search?&q=AngularFactorApp-prod",
+                    "Envirnoment": "prod" 
+                }
+            }
+        ]
+    },
+    {
+        "Name": "SampleTwelveFactorApp",
+        "Code": "sampleapp",
+        "Envirnoments": [
+            {
+                "EnvName": "cdev",
+                "EnvConfig": {
+                    "NavUrl": "https://www.google.com/search?&q=sampletwelvefactor-cdev",
+                    "Envirnoment": "cdev"                    
+                }
+            },
+            {
+                "EnvName": "qa",
+                "EnvConfig": {
+                    "NavUrl": "https://www.google.com/search?&q=sampletwelvefactor-qa",
+                    "Envirnoment": "qa" 
+                }
+            },
+            {
+                "EnvName": "uat",
+                "EnvConfig": {
+                    "NavUrl": "https://www.google.com/search?&q=sampletwelvefactor-uat",
+                    "Envirnoment": "uat" 
+                }
+            },
+            {
+                "EnvName": "prod",
+                "EnvConfig": {
+                    "NavUrl": "https://www.google.com/search?&q=sampletwelvefactor-prod",
+                    "Envirnoment": "prod" 
+                }
+            }
+        ]
+    },
+    {
+        "Name": "TwelveFactorApp",
         "Code": "12factor",
         "Envirnoments": [
             {
